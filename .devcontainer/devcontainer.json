@@ -1,0 +1,12 @@
+{
+  "name": "Java Classroom",
+  "image": "://microsoft.com",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "vscjava.vscode-java-pack",
+        "ms-vsliveshare.vsliveshare"
+      ]
+    }
+  }
+}
